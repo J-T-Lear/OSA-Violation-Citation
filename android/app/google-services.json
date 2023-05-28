@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493324499604",
+    "project_id": "fir-practice-e6fda",
+    "storage_bucket": "fir-practice-e6fda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493324499604:android:21d9fb919802f71f70d281",
+        "android_client_info": {
+          "package_name": "com.example.osavici"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493324499604-ug5nmrac1ee49hc07phmd5kcf44ircum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2-m0HDv9TdYgytRbIWUAc7HeTWrC60M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493324499604-ug5nmrac1ee49hc07phmd5kcf44ircum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
